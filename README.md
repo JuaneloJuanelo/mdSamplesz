@@ -1,6 +1,6 @@
 # Here are a few MD Samples
 
-| Relationship | Type	|Description|
+| Relationship  Type	|Description|
 |:---------------|:--------|:----------|
 |appearance|[ContentControlAppearance](contentcontrolappearance.md)|Gets or sets the appearance of the content control. The value can be 'boundingBox', 'tags' or 'hidden'.|
 |contentControls|[ContentControlCollection](contentcontrolcollection.md)|Gets the collection of content control objects in the content control. Read-only.|
