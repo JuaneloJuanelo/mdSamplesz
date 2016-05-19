@@ -15,5 +15,5 @@ here is some more text
 
 | No | Sadly        | There is none
 |:---------------------|:-----|:--|:---|
-| Except this, which is a poor alternative       |
+| Except this, which is a poor alternative       | gotit?| yes|no|
 | There really      | should be one              |
