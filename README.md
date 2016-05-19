@@ -11,11 +11,10 @@
 |parentContentControl|[ContentControl](contentcontrol.md)|Gets the content control that contains the content control. Returns null if there isn't a parent content control. Read-only.|
 |type|[ContentControlType](contentcontroltype.md)|Gets the content control type. Only rich text content controls are supported currently. Read-only.|
 
+here is some more text  
 
-
---------------------------------------------------
 | No | Sadly        | There is none              |
---------------------------------------------------
+|:-------------|:----------------|:--------------:|
 | Except this, which is a poor alternative       |
 --------------------------------------------------
 | There really      | should be one              |
