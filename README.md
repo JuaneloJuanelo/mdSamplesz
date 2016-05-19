@@ -1,7 +1,7 @@
 # Here are a few MD Samples
 
 | Relationship  |Type	|Description|
-|:---------------|:--------|:----------|
+|:---------------|:-------:|:----------|
 |appearance|[ContentControlAppearance](contentcontrolappearance.md)|Gets or sets the appearance of the content control. The value can be 'boundingBox', 'tags' or 'hidden'.|
 |contentControls|[ContentControlCollection](contentcontrolcollection.md)|Gets the collection of content control objects in the content control. Read-only.|
 |font|[Font](font.md)|Gets the text format of the content control. Use this to get and set font name, size, color, and other properties. Read-only.|
